@@ -4,9 +4,10 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 ## 아래는 내가 추가함
-.sln
-.vcxproj
-.vcxproj.filters
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
 
 # User-specific files
 *.rsuser
